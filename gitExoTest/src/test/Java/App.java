@@ -8,7 +8,8 @@ import main.Java.Personne;
 
 public class App {
 public static void main(String[] args) {
-	
+
+// this is a comment
 	
     Personne personne1 = new Personne("Majda", "Ennahli");
     Personne personne2 = new Personne("Malak", "Iziki");
